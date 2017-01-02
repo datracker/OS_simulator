@@ -1,8 +1,11 @@
-Name: Kazi Tanvir Ahmed Siddiqui
+Operating System Simulator
+Version: 2.0
+Developed and Tested on: Mac OSX Sierra
+Author: Kazi Tanvir Ahmed Siddiqui
 
 Instructions:
 
-Go to the directory.
-Type make clean in the terminal, and enter. This will clean the previous object file.
-Type make and enter, this will create a new object file.
+Go to the desired directory.
+Type "make clean" in the terminal, and enter. This will clean the previous object file.
+Type "make" and enter, this will create a new object file.
 Type ./Sim02 <configuration_file>
