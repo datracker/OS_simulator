@@ -1,0 +1,20 @@
+Program Name: Operating System Simulator
+Author: Kazi Tanvir Ahmed Siddiqui
+Created on: December 16, 2016
+Version: 4.0
+/*Developed and tested in MacOSX Sierra*/
+
+Important:
+THE OUTPUTS ARE NOT ORDERED FOR THIS. BECAUSE, ALL THE I/O ARE WORKING INDEPENDENTLY AND 
+LOGGING IN THEIR ACITVITY INDEPENDETLY. THIS IS HOW I IMPLEMENTED ASYNCHRONOUS MULTI-THREADING.
+IF YOU WANT TO SEE THE OUTPUT IN CHRONOLOGICAL ORDER, THEN IT'S ALSO PROSSIBLE TO SHOW EASILY.
+I IMPLEMENTED ASYNCHRONOUS MULTI-THREADING, BECAUSE THIS REPRESENTS REAL MULTI-THREADING
+AS ALL THE THREADS ARE WORKING INDEPENDTLY AND NOT BOUND TO THE MAIN PROCESS.
+PLEASE, LET ME KNOW IF YOU WANT TO SEE THE OUTPUT OTHERWISE. 
+
+Instructions:
+
+Go to the directory.
+Type make clean in the terminal, and enter. This will clean the previous object file.
+Type make and enter, this will create a new object file.
+Type ./Sim03 <configuration_file>

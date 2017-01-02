@@ -1,0 +1,147 @@
+0.000001 - Simulator program starting
+0.000001 - OS: preparing process 1
+0.000001 - OS: starting process 1
+0.000001 - Process 1: start processing action
+0.000051 - Process 1: end processing action
+0.000051 - Process 1: start hard drive input on HDD 0
+0.001059 - Process 1: end hard drive input
+0.001059 - Process 1: allocating memory
+0.001079 - Process 1: memory allocated at 0x00000100
+0.001079 - Process 1: start memory caching
+0.001179 - Process 1: end memory caching
+0.001179 - Process 1: allocating memory
+0.001230 - Process 1: memory allocated at 0x00000380
+0.001230 - Process 1: start memory caching
+0.001330 - Process 1: end memory caching
+0.001330 - Process 1: start hard drive output on HDD 1
+0.002592 - Process 1: end hard drive output
+0.002592 - Process 1: start keyboard input
+0.003009 - Process 1: end keyboard input
+0.003009 - Process 1: start hard drive output on HDD 2
+0.005019 - Process 1: end hard drive output
+0.005019 - Process 1: start processing action
+0.005080 - Process 1: end processing action
+0.005080 - Process 1: start hard drive input on HDD 3
+0.006937 - Process 1: end hard drive input
+0.006937 - Process 1: start hard drive output on HDD 4
+0.008047 - Process 1: end hard drive output
+0.008047 - Process 1: start hard drive input on HDD 0
+0.009156 - Process 1: end hard drive input
+0.009156 - Process 1: start printer output on PRNTR 0
+0.017464 - Process 1: end printer output
+0.017464 - Process 1: start keyboard input
+0.018363 - Process 1: end keyboard input
+0.018363 - Process 1: start hard drive output on HDD 1
+0.019775 - Process 1: end hard drive output
+0.019775 - Process 1: start processing action
+0.019826 - Process 1: end processing action
+0.019826 - Process 1: start keyboard input
+0.020786 - Process 1: end keyboard input
+0.020786 - Process 1: start printer output on PRNTR 1
+0.023596 - Process 1: end printer output
+0.023596 - Process 1: start hard drive input on HDD 2
+0.025474 - Process 1: end hard drive input
+0.025474 - Process 1: start hard drive output on HDD 3
+0.026449 - Process 1: end hard drive output
+0.026449 - Process 1: start hard drive input on HDD 4
+0.027392 - Process 1: end hard drive input
+0.027392 - Process 1: start printer output on PRNTR 2
+0.035674 - Process 1: end printer output
+0.035674 - Process 1: start processing action
+0.035749 - Process 1: end processing action
+0.035749 - OS: removing process 1
+0.035749 - OS: preparing process 2
+0.035749 - OS: starting process 2
+0.035749 - Process 2: start processing action
+0.035804 - Process 2: end processing action
+0.035804 - Process 2: start processing action
+0.035859 - Process 2: end processing action
+0.035859 - Process 2: start keyboard input
+0.036690 - Process 2: end keyboard input
+0.036690 - Process 2: start processing action
+0.036745 - Process 2: end processing action
+0.036745 - Process 2: start processing action
+0.036810 - Process 2: end processing action
+0.036810 - Process 2: start monitor output
+0.036980 - Process 2: end monitor output
+0.036980 - Process 2: start keyboard input
+0.037759 - Process 2: end keyboard input
+0.037759 - Process 2: start printer output on PRNTR 3
+0.044418 - Process 2: end printer output
+0.044418 - Process 2: start processing action
+0.044484 - Process 2: end processing action
+0.044484 - Process 2: start processing action
+0.044544 - Process 2: end processing action
+0.044544 - Process 2: start processing action
+0.044569 - Process 2: end processing action
+0.044569 - Process 2: start hard drive input on HDD 0
+0.046868 - Process 2: end hard drive input
+0.046868 - Process 2: start hard drive output on HDD 1
+0.048561 - Process 2: end hard drive output
+0.048561 - Process 2: start hard drive input on HDD 2
+0.050412 - Process 2: end hard drive input
+0.050412 - Process 2: start printer output on PRNTR 0
+0.058706 - Process 2: end printer output
+0.058706 - Process 2: start hard drive input on HDD 3
+0.059647 - Process 2: end hard drive input
+0.059647 - Process 2: start processing action
+0.059682 - Process 2: end processing action
+0.059682 - Process 2: start processing action
+0.059742 - Process 2: end processing action
+0.059742 - Process 2: start processing action
+0.059767 - Process 2: end processing action
+0.059767 - Process 2: start processing action
+0.059817 - Process 2: end processing action
+0.059817 - OS: removing process 2
+0.059817 - OS: preparing process 3
+0.059817 - OS: starting process 3
+0.059817 - Process 3: start processing action
+0.059877 - Process 3: end processing action
+0.059877 - Process 3: start printer output on PRNTR 1
+0.065418 - Process 3: end printer output
+0.065418 - Process 3: start processing action
+0.065458 - Process 3: end processing action
+0.065458 - Process 3: start processing action
+0.065528 - Process 3: end processing action
+0.065528 - Process 3: start hard drive input on HDD 4
+0.067059 - Process 3: end hard drive input
+0.067059 - Process 3: start hard drive output on HDD 0
+0.069341 - Process 3: end hard drive output
+0.069341 - Process 3: start keyboard input
+0.070215 - Process 3: end keyboard input
+0.070215 - Process 3: start processing action
+0.070240 - Process 3: end processing action
+0.070240 - Process 3: start printer output on PRNTR 2
+0.073569 - Process 3: end printer output
+0.073569 - Process 3: start processing action
+0.073644 - Process 3: end processing action
+0.073644 - Process 3: start processing action
+0.073699 - Process 3: end processing action
+0.073699 - Process 3: start keyboard input
+0.074623 - Process 3: end keyboard input
+0.074623 - Process 3: start hard drive output on HDD 1
+0.075396 - Process 3: end hard drive output
+0.075396 - Process 3: start hard drive input on HDD 2
+0.076168 - Process 3: end hard drive input
+0.076168 - Process 3: start processing action
+0.076208 - Process 3: end processing action
+0.076208 - Process 3: start printer output on PRNTR 3
+0.079531 - Process 3: end printer output
+0.079531 - Process 3: allocating memory
+0.079551 - Process 3: memory allocated at 0x00000480
+0.079551 - Process 3: start memory caching
+0.079651 - Process 3: end memory caching
+0.079651 - Process 3: allocating memory
+0.079701 - Process 3: memory allocated at 0x00000700
+0.079701 - Process 3: start memory caching
+0.079801 - Process 3: end memory caching
+0.079801 - Process 3: start processing action
+0.079851 - Process 3: end processing action
+0.079851 - Process 3: start processing action
+0.079916 - Process 3: end processing action
+0.079916 - Process 3: start keyboard input
+0.080239 - Process 3: end keyboard input
+0.080239 - Process 3: start processing action
+0.080279 - Process 3: end processing action
+0.080279 - OS: removing process 3
+0.080279 - Simulator program ending

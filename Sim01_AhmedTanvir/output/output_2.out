@@ -1,0 +1,18 @@
+Configuration File Data
+Processor = 5 ms/cycle
+Monitor = 31 ms/cycle
+Hard Drive = 14 ms/cycle
+Printer = 48 ms/cycle
+Keyboard = 64 ms/cycle
+Memory = 31 ms/cycle
+
+Meta-Data Metrics
+O(monitor)60 - 1860 ms
+M(allocate)5 - 155 ms
+P(run)15 - 75 ms
+P(run)5 - 25 ms
+P(run)16 - 80 ms
+P(run)8 - 40 ms
+P(run)13 - 65 ms
+P(run)14 - 70 ms
+M(cache)4 - 124 ms
